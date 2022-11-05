@@ -1,0 +1,36 @@
+[33mcommit cd0a66209c2c6c242b51636653becb5d1319ee31[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 00772ef 84ea3da
+Author: Tano <tantn1@unicloud.com.vn>
+Date:   Sat Nov 5 07:54:39 2022 +0700
+
+    merge conflict
+
+[33mcommit 84ea3daa92248225ad30e3cec5bb015d1feb4b08[m[33m ([m[1;32mdevelop[m[33m)[m
+Author: Tano <tantn1@unicloud.com.vn>
+Date:   Sat Nov 5 07:45:23 2022 +0700
+
+    thay doi branch
+
+[33mcommit 9e6a7860d9417a0575b57fc9379bf7425f10963d[m
+Author: Tano <tantn1@unicloud.com.vn>
+Date:   Sat Nov 5 06:54:34 2022 +0700
+
+    Thay doi noi dung tren nhanh dev
+
+[33mcommit 00772ef5bd9846d4ae72980fa3453cc5e4a008ec[m
+Author: Tano <tantn1@unicloud.com.vn>
+Date:   Fri Nov 4 23:19:35 2022 +0700
+
+    develop:
+
+[33mcommit 63d1a6e29b97ed1c3f4e010f38063a8ea5cf5e6a[m
+Author: Tano <tantn1@unicloud.com.vn>
+Date:   Fri Nov 4 22:27:25 2022 +0700
+
+    commit 2
+
+[33mcommit c34dafaedf82cdbf1328f0092a8b42c0f8546203[m
+Author: Tano <tantn1@unicloud.com.vn>
+Date:   Fri Nov 4 22:24:52 2022 +0700
+
+    init structure
